@@ -40,3 +40,15 @@ Unless otherwise specified, everything in this repository is covered by the foll
 This work was based on the ***MicroPython Glossary*** by [Damien P. George, and others](http://docs.micropython.org/en/latest/reference/glossary.html). Content is available under an [MIT license](https://github.com/micropython/micropython/blob/master/docs/license.rst).
 
 To see this work in full go to http://docs.micropython.org/en/latest/reference/glossary.html
+
+----
+
+<b>
+<div align="center">
+    The creation, maintenance and continued development of this project is made possible
+    <br>
+    thanks to our <a href="http://patreon.com/darigovresearch">Patreon</a> and <a href="https://www.darigovresearch.com/donate">Direct</a> supporters!
+    <br>
+    Consider joining them if you think this project has earned it!
+</div>
+</b>
